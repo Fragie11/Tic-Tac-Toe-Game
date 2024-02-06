@@ -17,8 +17,8 @@ How to Play:
 Technologies Used:
 
 Python: The core programming language used for game logic.
+
 Tkinter: Python's standard GUI (Graphical User Interface) library for creating the game's interface.
-Git: Version control system for managing project files.
-GitHub: Hosting platform for sharing the code and collaborating with others.
+
 Feel free to explore, modify, and enhance the game according to your preferences. Enjoy playing Tic-Tac-Toe!
 
